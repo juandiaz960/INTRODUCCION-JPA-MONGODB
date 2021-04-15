@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://ieti_user:ieti12345@ieti.cfynh.mongodb.net/test?retryWrites=true&w=majority
